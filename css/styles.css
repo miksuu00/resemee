@@ -1,16 +1,30 @@
 p{
+    text-align: center;
     color: grey;
     background-color: cornsilk;
 }
-
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+ol{
+  color: brown;
+}
+li{
+  color: blue;
+  background-color: chocolate;
+}
 code{
+  font-size: 300%;
+  text-align: center;
     background-color: crimson;
     color: black;
 }
 
 h2{
+  text-align: center;
     color: blue;
 }
 h1{
+  text-align: center;
     color:blueviolet;
 }
